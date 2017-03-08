@@ -1,0 +1,10 @@
+.divborder {
+	color: pink;
+	border-color: black;
+
+	border-style: solid;
+	padding: 15px;
+    margin: 15px;
+    list-style-type: none;
+	
+}
